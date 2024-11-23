@@ -1,0 +1,21 @@
+body {
+       background-color:pink;
+
+.one{
+     color:#0acff2;
+     font-size:20px;
+}
+.two{
+     color:white;
+     font-size:50px;
+}
+.ok{ 
+    color:gray;
+    font-size:12px;
+} 
+.ok2{
+     color:gray;
+}
+#aaa{
+     color:white;
+}
